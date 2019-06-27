@@ -1,0 +1,19 @@
+{
+  "name": "coursejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "build": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@webcomponents/webcomponentsjs": "^2.2.10",
+    "rollup": "^1.16.2"
+  },
+  "dependencies": {
+    "lit-element": "^2.2.0"
+  }
+}
